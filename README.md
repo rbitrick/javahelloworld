@@ -1,2 +1,2 @@
 ﻿# javahelloworld
-This is actuall Java Blackjack but I was terrible at naming projects
+This is actually Java Blackjack but I was terrible at naming projects
